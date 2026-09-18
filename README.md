@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=74&pause=240&color=FFD700&center=true&vCenter=true&width=1580&lines=BRAWLHALLA+HACK+2026;FARM+•+DOMINATE+•+UNLOCK;CONQUER+VALHALLA" alt="Brawlhalla Hack 2026" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ae90bdc5-14c6-484f-9ad7-05073991d381" />
 </div>
 
 <br/>
